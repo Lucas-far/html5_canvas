@@ -1,0 +1,14 @@
+
+
+1. Creating and resizing your canvas
+2. Drawing elements
+3. Animating elements
+4. Interacting with elements
+
+Canvas objects
+1. Rectangles
+2. Lines
+3. Arcs/Circles
+4. Bezier curves
+5. Images
+6. Text
